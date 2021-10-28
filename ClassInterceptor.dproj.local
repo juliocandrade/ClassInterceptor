@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/16 16:54:02.000.188,=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/16 16:59:38.000.218,=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/10/16 17:34:47.000.963,=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/10/16 18:19:25.000.907,=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/10/16 23:23:32.000.291,=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/10/17 16:57:27.000.181,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Interceptor.Edit.pas</Transaction>
+    <Transaction>2021/10/17 17:08:05.000.679,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ClassInterptor.View.Principal.dfm</Transaction>
+    <Transaction>2021/10/17 17:08:05.000.679,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ClassInterptor.View.Principal.pas</Transaction>
+    <Transaction>2021/10/17 17:09:41.000.390,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Interceptor.Button.pas</Transaction>
+    <Transaction>2021/10/17 17:10:30.000.310,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ClassInterptor.View.Principal.dfm=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Principal.dfm</Transaction>
+    <Transaction>2021/10/17 17:10:30.000.310,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ClassInterptor.View.Principal.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Principal.pas</Transaction>
+    <Transaction>2021/10/17 17:11:06.000.853,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Principal.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\View.Principal.pas</Transaction>
+    <Transaction>2021/10/17 17:11:06.000.853,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Principal.dfm=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\View.Principal.dfm</Transaction>
+    <Transaction>2021/10/17 17:11:12.000.642,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Interceptor.Button.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Model.Interceptor.Button.pas</Transaction>
+    <Transaction>2021/10/17 17:11:16.000.223,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Interceptor.Edit.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ModelInterceptor.Edit.pas</Transaction>
+    <Transaction>2021/10/17 17:11:23.000.223,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ModelInterceptor.Edit.pas=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\Model.Interceptor.Edit.pas</Transaction>
+    <Transaction>2021/10/17 17:19:33.000.778,C:\Users\equip\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\equip\Documents\Embarcadero\Studio\Projects\Embarcadero Conference 2021\ClassInterceptor\ClassInterceptor.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
